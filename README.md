@@ -1,6 +1,6 @@
 # AtliQ Hardware SQL Business Insights
 
-![AtliQ Technologies](./assets/atliq-technologies-logo.png)
+![AtliQ Technologies](https://www.atliq.com/)
 
 ## 📌 Project Overview
 
