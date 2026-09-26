@@ -1,7 +1,5 @@
 # AtliQ Hardware SQL Business Insights
 
-![AtliQ Technologies](https://www.atliq.com/)
-
 ## 📌 Project Overview
 
 This project is based on the **AtliQ Hardware Consumer Goods Ad-hoc Insights SQL Challenge**.
